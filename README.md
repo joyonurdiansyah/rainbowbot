@@ -1,0 +1,2 @@
+# rainbowbot
+multicolor role
